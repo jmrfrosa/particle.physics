@@ -1,0 +1,11 @@
+{
+  "name": "particle-tests",
+  "version": "1.0.0",
+  "main": "./build/src/index.html",
+  "author": "João Rosa",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {}
+}
