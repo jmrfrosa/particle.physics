@@ -1,0 +1,1 @@
+{"version":3,"file":"attractor.js","sourceRoot":"","sources":["../../src/operations/attractor.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,MAAM,mBAAmB,CAAC;AAEnD,MAAM,CAAC,MAAM,SAAS,GAAG,CAAC,SAAqB,EAAE,QAAkB,EAAE,EAAE;IACrE,MAAM,YAAY,GAAG,cAAc,CAAC,QAAQ,EAAE,SAAS,CAAC,CAAA;IAExD,QAAQ,CAAC,UAAU,CAAC,YAAY,CAAC,CAAA;AACnC,CAAC,CAAA"}
