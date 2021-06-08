@@ -11,17 +11,17 @@ Compiled code is located in `./build`. You need to run a server (e.g. using `npx
 
 ## Development
 
-The code is written in Typescript. This means that you should:
-```bash
-npm install typescript --save-dev
+The code is written in Typescript. This means that you should have it installed. The project already includes it as a development dependency, so you can install by running, in the root folder:
+```
+$ npm install
 ```
 or:
-```bash
-yarn add typescript --dev
+```
+$ yarn
 ```
 
 Afterwards, if using VSCode, <kbd>Shift</kbd>+<kbd>Cmd</kbd>+<kbd>B</kbd> should be enough to start the transpilation. If not, you can run instead:
 
-```shell
-npx tsc-watch
+```
+$ npx tsc-watch
 ```
